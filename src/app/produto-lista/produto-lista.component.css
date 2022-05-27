@@ -1,0 +1,32 @@
+.card{
+
+ 
+  margin: 5px auto 5px auto;
+  outline: auto black 1;
+  padding: 10px;
+  border-radius: 12px;
+  height: 600px;
+  
+ 
+
+
+}
+
+
+.card-body{
+
+color: black;
+background-color: azure;
+
+
+}
+
+
+.card-img-top{
+
+width: 250px;
+height: 250px;
+margin: auto;
+
+
+}
